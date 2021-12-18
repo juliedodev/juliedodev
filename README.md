@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dt1dev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=fadadd&icon_color=c0ffee&text_color=FBF4E1&bg_color=0,000000,3C5067" alt="Julie's Github Stats">
   
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dt1dev&layout=compact&title_color=fadadd&text_color=FBF4E1&bg_color=0,000000,3C5067" alt="Daniel's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dt1dev&layout=compact&title_color=fadadd&text_color=FBF4E1&bg_color=0,000000,3C5067" alt="Julie's Github Stats">
 
 <h3 align="center">Connect With Me:</h3>
 <p align="center">
