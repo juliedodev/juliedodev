@@ -2,15 +2,10 @@
 <p align="center">
     <img width="300" src="logo.gif">
 </p>
-### Hi there 👋, my name is Julie! 
+<h1 alight="center">Hi there 👋, my name is Julie!</h1>
 
-
-Here are some ideas to get you started:
-
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Proud Corgi Mom
-
-
+Pronouns: She/Her
+Fun fact: Proud Corgi Mom
 
 <h3 align="left">Languages and Tools:</h3>
 
