@@ -2,7 +2,7 @@
 <p align="center">
     <img width="300" src="logo.gif">
 </p>
-<h1 alight="center">Hi there 👋, my name is Julie!</h1>
+<h1 align="center">Hi there 👋, my name is Julie!</h1>
 
 
 <h4 alight="left">Pronouns: She/Her</h4>
